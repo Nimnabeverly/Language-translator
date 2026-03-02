@@ -73,9 +73,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Amirhossein Allami - amirallami.dev@gmail.com
-
-Project Link: [https://github.com/amirallami-code/language-translator](https://github.com/amirallami-code/language-translator)
+Nimna Beverly - nimnabeverly@gmail.com
 
 ---
 
